@@ -15,5 +15,10 @@ Execute with `java -jar Blackjack.jar`
 - Max of 5 cards per Player/Dealer Hand
 - No Split/Double Down options
 
-<img src="https://i.ibb.co/5nFP5YN/a.png">
-<img src="https://i.ibb.co/KDcFrCL/b.png">
+<p align="center">
+	<img src="https://i.ibb.co/5nFP5YN/a.png"/>
+</p>
+
+<p align="center">
+	<img src="https://i.ibb.co/KDcFrCL/b.png"/>
+</p>
