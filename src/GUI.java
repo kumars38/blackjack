@@ -468,7 +468,7 @@ public class GUI extends javax.swing.JFrame {
                 }
                 else if (dVal < pVal)
                 {
-                	updateText.setText("            You beat the dealer. You win.");
+                	updateText.setText("             You beat the dealer. You win.");
                     bal+=2*bet;
                     balText.setText("Balance: $"+bal);
                 }
