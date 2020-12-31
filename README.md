@@ -2,8 +2,7 @@
 Follows traditional rules of the card game Blackjack or 21
 
 **Instructions:**
-Execute from `src` with `java -jar Blackjack.jar`
-Or compile up-to-date `.java` files
+Execute from `src` with `java -jar Blackjack.jar` or compile up-to-date `.java` files
 
 **Features:**
 - GUI with card displays
