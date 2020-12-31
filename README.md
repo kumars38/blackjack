@@ -1,7 +1,9 @@
-## Blackjack game coded in Java.
-Follows traditional rules of casino Blackjack or 21
+## Blackjack game coded in Java with GUI.
+Follows traditional rules of the card game Blackjack or 21
 
-Execute with `java -jar Blackjack.jar`
+**Instructions:**
+Execute from `src` with `java -jar Blackjack.jar`
+Or compile up-to-date `.java` files
 
 **Features:**
 - GUI with card displays
@@ -14,7 +16,6 @@ Execute with `java -jar Blackjack.jar`
 - Small GUI scale and Basic Text Formatting
 - Max of 5 cards per Player/Dealer Hand
 - No Split/Double Down options
-
 
 <p align="center">
 	<img src="https://i.ibb.co/5nFP5YN/a.png"/>
