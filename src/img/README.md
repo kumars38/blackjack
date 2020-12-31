@@ -1,0 +1,2 @@
+Images retrieved from:
+http://acbl.mybigcommerce.com/52-playing-cards/
