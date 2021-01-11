@@ -573,7 +573,7 @@ public class GUI extends javax.swing.JFrame {
             //otherwise, no tie, 21 is a win
             else if (pVal == 21)
             {
-                updateText.setText("                 You got 21! You win.");
+                updateText.setText("                  You got 21! You win.");
                 bal += 2 * bet;
                 balText.setText("Balance: $"+bal);
             }
